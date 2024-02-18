@@ -1,0 +1,30 @@
+header {
+    background-color: #ff6600; 
+    padding: 20px;
+    color: #fff; 
+}
+
+nav {
+    background-color: #333; 
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff; 
+    text-decoration: none;
+}
+
+main p {
+    color: #336699; 
+}
