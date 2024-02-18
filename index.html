@@ -3,11 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>My Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header class="welcome-header">Welcome to My Website!</header>
-    <p class="website-description">Explore our content and find what you need.</p>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <a href="#home">Home</a>
+        <a href="#about">About Me</a>
+        <a href="#contact">Contact Me</a>
+    </nav>
+
+    <!-- Homepage -->
+    <section id="home" class="page-section">
+        <header class="welcome-header">Welcome to My Website!</header>
+        <p class="website-description">Find all the information you need here.</p>
+    </section>
+
+    <!-- About Me Page -->
+    <section id="about" class="page-section">
+        <h1 class="name">Your Name</h1>
+        <p class="intro">A brief introduction about yourself.</p>
+        <p class="hobby">A paragraph about your favorite hobby or interest.</p>
+    </section>
+
+    <!-- Contact Me Page -->
+    <section id="contact" class="page-section">
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+            
+            <label for="subject">Subject:</label>
+            <input type="text" id="subject" name="subject">
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message"></textarea>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </section>
 </body>
 </html>
