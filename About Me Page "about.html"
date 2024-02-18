@@ -18,7 +18,7 @@
         </ul>
     </nav>
     <main>
-        <h2 style="color: blue;">Jhyree Brigman</h2>
+        <h2 style="color: #660066;">Jhyree Brigman</h2>
         <img src="football.jpg" alt="Profile Picture">
         <p style="color: #660066;">I am a web developer with a passion for coding and problem-solving.</p>
         <p style="color: #ff9900;">In my free time, I enjoy sports and finding new ways to do things.</p>
