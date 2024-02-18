@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+</head>
+<body>
+
+    <h1>Jhyree Brigman</h1>
+
+    <p>Hello, I am Jhyree Brigman. I enjoy sports such as football and basketball and I also like to read books in my spare time.</p>
+
+    <p>One of my favorite hobbies is playing video games. It brings me joy and relaxation, and I love spending my free time on it. I have also attempted to water ski which i like.</p>
+
+    <h2>Favorite Books</h2>
+    <ol>
+        <li>48 Laws of Power</li>
+        <li>Rich dad poor dad</li>
+        <li>A Mans Purpose/li>
+    </ol>
+
+    <h2>Least Favorite Movies</h2>
+    <ul>
+        <li>Cars 2</li>
+        <li>How to train a dragon</li>
+        <li>Time</li>
+    </ul>
+<p>Check out my favorite website: <a href="https://www.ESPN.com" target="_blank">ESPN.com</a></p>
+
+    <a href="https://www.ESPN.com" target="_blank">ESPN.com</a></p>
