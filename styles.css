@@ -1,0 +1,70 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Homepage Styles */
+.welcome-header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.website-description {
+    color: #28a745;
+    text-align: center;
+}
+
+/* About Me Page Styles */
+.name {
+    color: #dc3545;
+    text-align: center;
+}
+
+.intro {
+    color: #ffc107;
+    text-align: center;
+}
+
+.hobby {
+    color: #6610f2;
+    text-align: center;
+}
+
+/* Contact Me Page Styles */
+.label {
+    color: #6c757d;
+}
+
+.input {
+    background-color: #e9ecef;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Navigation Bar Styles */
+.navbar {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.navbar a:hover {
+    background-color: #555;
+}
